@@ -1,0 +1,7 @@
+C:\Users\Michael\source\repos\Card Gameb\Card Gameb\bin\Debug\Card Gameb.exe.config
+C:\Users\Michael\source\repos\Card Gameb\Card Gameb\bin\Debug\Card Gameb.exe
+C:\Users\Michael\source\repos\Card Gameb\Card Gameb\bin\Debug\Card Gameb.pdb
+C:\Users\Michael\source\repos\Card Gameb\Card Gameb\obj\Debug\Card Gameb.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\Card Gameb\Card Gameb\obj\Debug\Card Gameb.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Card Gameb\Card Gameb\obj\Debug\Card Gameb.exe
+C:\Users\Michael\source\repos\Card Gameb\Card Gameb\obj\Debug\Card Gameb.pdb
